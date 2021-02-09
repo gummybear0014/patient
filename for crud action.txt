@@ -1,0 +1,1 @@
+ <td><a href="dashboard.php?comp_id=<?php echo $row["comp_id"]; ?>" class="link"><img alt='Edit' title='Edit' src='images/edit.png' width='15px' height='15px' hspace='10' /></a>  <a href="dashboard.php?comp_id=<?php echo $row["comp_id"]; ?>"  class="link"><img alt='Delete' title='Delete' src='images/delete.png' width='15px' height='15px'hspace='10' /></a></td>
